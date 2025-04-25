@@ -1,0 +1,5 @@
+streamlit
+nltk
+SpeechRecognition
+tensorflow
+scikit-learn
